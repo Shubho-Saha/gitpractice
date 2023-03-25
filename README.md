@@ -1,2 +1,6 @@
-# gitpractice
-This is for github learning
+# GitPractice
+---
+## Github learning
+### New Line
+Hello world  
+This is my first Git Repository.
