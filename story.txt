@@ -1,3 +1,4 @@
 A fairy tale.
-This tale is about princess fiona (main branch).
-This line added from main branch.
+This tale is about princess Fiona (main branch).
+This line is added from the main branch.
+
