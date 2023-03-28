@@ -1,2 +1,3 @@
 A fairy tale.
 This tale is about princess fiona (main branch)
+this line added from feature branch.
